@@ -3,7 +3,7 @@
 ## Project Overview
 Sort Function implementation per the instructions, 
 may be nice to eventually make this a class method but 
-the implementation was done exactly to the assignement spec
+the implementation was done exactly to the assignment spec
 
 
 ## sort()
