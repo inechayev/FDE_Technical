@@ -10,7 +10,7 @@ the implementation was done exactly to the assignment spec
 Takes width (cm), height (cm), length (cm)  and mass (kg) parameters. 
 
 
-If volume (width*height*length) is greater than or equal to 1000000 centimeters
+If volume (width\*height\*length) is greater than or equal to 1000000 centimeters
 cubed package is bulky
 
 If mass > 20 KG package is heavy.
