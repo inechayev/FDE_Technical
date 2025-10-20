@@ -16,9 +16,9 @@ cubed package is bulky
 If mass > 20 KG package is heavy.
 
 Function returns a string:
-	STANDARD: Package is neither heavy nor bulky
-	SPECIAL: Package is heavy or bulky
-	REJECTED: Package is both heavy and bulky
+- STANDARD: Package is neither heavy nor bulky
+- SPECIAL: Package is heavy or bulky
+- REJECTED: Package is both heavy and bulky
 
 String is currently printed to the console. Another option would be to build a dict
 if a unique identifier exists for each page, that has the key as the identifier and the 
