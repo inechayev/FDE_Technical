@@ -21,7 +21,7 @@ Function returns a string:
 - REJECTED: Package is both heavy and bulky
 
 String is currently printed to the console. Another option would be to build a dict
-if a unique identifier exists for each page, that has the key as the identifier and the 
+if a unique identifier exists for each package, that has the key as the identifier and the 
 sorting as the value. 
 
 ### Validation:
